@@ -2,11 +2,13 @@
 
 Este é um projeto base para demonstração de um micro-serviço fictício.
 
-Recomenda-se gastar entre 4 a 6 horas para realizar essas tarefas. As duas primeiras são as mais básicas e importantes, 
+Recomenda-se gastar entre 4 a 6 horas para realizar essas tarefas. As duas primeiras são as mais importantes, 
 enquanto que as duas últimas são opcionais, para quem conseguir terminar antes do previsto.
 
 Esse projeto foi iniciado a partir do [Spring Initializr][SpringInitializr]. É o boilerplate padrão do Spring 1.5.2 com 
-Spring Boot e Servlet Tomcat.
+[Spring Boot][SpringBoot] (torna o serviço "rodável", sem necessidade de deploy para um servidor).
+
+Crie um *fork* deste repositório e siga as tarefas abaixo.
 
 ##Tarefas
 
@@ -52,3 +54,4 @@ Nessa etapa, adiciona e configure o [Hystrix][HystrixRepo] para tornar nosso mic
 [FeignRepo]: https://github.com/OpenFeign/feign
 [HystrixRepo]: https://github.com/Netflix/Hystrix
 [SpringInitializr]: https://start.spring.io/
+[SpringBoot]: https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started
