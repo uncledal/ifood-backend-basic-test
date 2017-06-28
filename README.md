@@ -5,8 +5,8 @@ Este é um projeto base para demonstração de um micro-serviço RESTful fictíc
 Recomenda-se gastar entre 4 a 6 horas para realizar essas tarefas. As duas primeiras são as mais importantes, 
 enquanto que as duas últimas são opcionais, para quem conseguir terminar antes do previsto.
 
-Esse projeto foi iniciado a partir do [Spring Initializr][SpringInitializr]. É o boilerplate padrão do Spring 1.5.2 
-com [Spring Boot][SpringBoot] (torna o micro-serviço executável, sem necessidade de deploy para um servidor).
+Esse projeto foi iniciado a partir do [Spring Initializr][SpringInitializr]. É o boilerplate padrão do Spring  
+com [Spring Boot][SpringBoot] 1.5.2 (torna o micro-serviço executável, sem necessidade de deploy para um servidor).
 
 Crie um *fork* deste repositório e siga as tarefas abaixo.
 
@@ -57,4 +57,4 @@ Em caso de falha... o que poderia acontecer para que o nosso endpoint não retor
 [FeignRepo]: https://github.com/OpenFeign/feign
 [HystrixRepo]: https://github.com/Netflix/Hystrix
 [SpringInitializr]: https://start.spring.io/
-[SpringBoot]: https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started
+[SpringBoot]: https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#getting-started
