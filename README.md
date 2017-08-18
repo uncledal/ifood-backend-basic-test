@@ -1,4 +1,4 @@
-#iFood Backend Java Test
+# iFood Backend Basic Test
 
 Este é um projeto base para demonstração de um micro-serviço RESTful fictício.
 
@@ -10,7 +10,7 @@ com [Spring Boot][SpringBoot] 1.5.2 (torna o micro-serviço executável, sem nec
 
 Crie um *fork* deste repositório e siga as tarefas abaixo.
 
-##Tarefas
+## Tarefas
 
 ### 1. Crie um endpoint para retornar informações sobre o serviço
 
